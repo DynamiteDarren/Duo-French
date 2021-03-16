@@ -1,0 +1,48 @@
+Je suis un fille
+une femme et une fille
+une fille et un garçon
+une fille
+un chat et un garçon
+un garçon et un chat
+un homme et un garçon
+un garçon
+un homme et un garçon
+un homme et un chat
+un chat et un homme
+un homme
+Je suis une femme.
+Je suis une fille.
+Je suis un garçon.
+Je suis un homme.
+Je suis Marie.
+Je suis un chat.
+Je suis Paul.
+Je mange une pizza.
+Une fille mange un croissant.
+Une femme mange une orange.
+Un chat mange un croissant.
+Un garçon mange un croissant.
+Paul mange un croissant.
+Un garçon mange une orange.
+Une femme mange.
+Un homme mange.
+Marie mange.
+Tu manges une orange.
+Tu manges.
+Tu manges un croissant.
+Tu manges une pizza.
+Une femme mange une orange.
+Un garçon mange une orange.
+une orange et un croissant
+un croissant et une orange
+une orange
+Tu manges une pizza.
+un chat et une pizza
+une pizza
+Je suis une femme.
+Je suis une fille.
+Je suis un garçon.
+Je suis un homme.
+Je suis Marie.
+Je suis un chat.
+Je suis Paul.
