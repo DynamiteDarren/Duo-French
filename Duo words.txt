@@ -12,6 +12,15 @@ mangeons
 mangez
 mangent
 
+ADVERB
+beaucoup
+bien
+très
+comment
+
+ADJECTIBIVE
+
+
 NOUN
 cheval
 chat
@@ -27,18 +36,34 @@ chien
 PRONOUN
 tu
 je
+toi
 
 CONJUCTION
 et
 
+GREETINGS
+à demain
+bonne nuit
+bonne soirée
+au revoir
+salut
+bonne journée
+bonjour
+bienvenue
+à bientôt
+ça va
 
 OTHER
 c'est
 un
 une
+merci
 
 NAMES
 Paul
 Marie
 Alice
 Marc
+Anna
+Max
+
