@@ -1,4 +1,3 @@
-
 Quel beau cheval
 Ce cheval est le plus beau
 Ce cheval est très beau
@@ -25,7 +24,6 @@ Mange les fraises !
 Ne mange pas trop.
 Mange moins de pain.
 Je mange avec Duo.
-Je mange beaucoup.
 C'est une orange.
 Ton chapeau est-il orange?
 Tu as une robe orange ?
@@ -46,21 +44,7 @@ Hier, je suis arrivé chez moi.
 Hier, je suis allé au parc.
 Je suis arrivé à New York.
 Je suis arrivé hier.
-Au revoir, à demain.
-Salut, à demain!
-À demain!
-À demain, Marie
-À demain, Paul
-Bonne nuit!
-Bonne nuit, Marie
-Bonne nuit, Paul
-Salut, bonne nuit!
 Il mange beaucoup.
-Merci beaucoup, à bientôt
-Au revoir, merci beaucoup
-Merci beaucoup, Marie
-Merci beaucoup, Paul
-Merci beaucoup
 Il adore les baskets et il en a beaucoup
 J'aime les vêtements et j'en ai beaucoup
 J'adore les casquettes alors j'en beaucoup
@@ -71,59 +55,10 @@ Ella a beaucoup aimé le concert de ce chanteur
 J'ai beaucoup aimé ce concert
 Nous avons beaucoup aimé ce film
 J'ai beaucoup aimé ce livre
-Ça va, merci
-Bien, merci
 Oui, merci
-Ça va bien, merci
-Merci, Marie
-Merci, Paul
-Merci
-Au revoir, bonne soirée
-Bonne soirée, Marie
-Bonne soirée, Paul
-Salut, bonne soirée
-Bonne soirée
-Au revoir!
-Au revoir, bonne journée!
-Au revoir, à bientôt!
-Au revoir, Marie
-Au revoir, Paul.
-Au revoir
-Salut, comment ça va?
-Salut, ça va?
-Salut!
-Salut Marie, comment ça va?
-Salut Paul, comment ça va?
-Salut, Paul!
-Salut, bonne soirée
 Salut, comment tu t'appelles?
-Salut, bonne journée!
-Salut, à bientôt!
-Salut, bonne nuit!
-Bonne journée!
-Au revoir, bonne journée
-Bonjour, comment ça va?
-Bonjour!
 Bonjour, comment tu t'appelles?
-Bonjour, Marie
-Bonjour, Paul
-Bienvenue!
-Bienvenue, Marie
-Bonjour, bienvenue
-Bienvenue, Paul
-À bientôt!
-Au revoir, à bientôt!
-À bientôt, Marie
-À bientôt, Paul
-Ça va très bien, et toi?
-Ça va bien, et toi?
-Je suis Paul, et toi?
-Très bien, et toi?
-Ça va, et toi?
 Oui, et toi?
-Et toi?
-Ça va bien?
-Ça va bien
 Oui, ça va bien
 Vous aimez bien les films française?
 Elle connaît bien ce livre
@@ -137,20 +72,8 @@ Tu penses que ce pantalon me va bien?
 Ce pantalon te va très bien.
 Cette robe te va très bien
 Il s'en occupe très bien
-Ça va très bien
-Ça va très bien, et toi?
-Très bien, et toi?
-Bonjour, comment ça va?
-Ça va bien?
-Comment ça va?
-Ça va bien
-Bonjour, ça va?
-Comment ça va, Marie?
-Comment ça va, Paul?
 Oui, ça va bien.
 Bonjour maman, ça va?
-Salut Anna, ça va?
-Salut Paul, ça va?
 Comment est-il?
 Max, comment fais-tu pour vivre sans Internet?
 Tu as fait comment pour acheter ça sur Internet?

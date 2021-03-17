@@ -1,48 +1,60 @@
-Je suis un fille
-une femme et une fille
-une fille et un garçon
-une fille
-un chat et un garçon
-un garçon et un chat
-un homme et un garçon
-un garçon
-un homme et un garçon
-un homme et un chat
-un chat et un homme
-un homme
-Je suis une femme.
-Je suis une fille.
-Je suis un garçon.
-Je suis un homme.
-Je suis Marie.
-Je suis un chat.
-Je suis Paul.
-Je mange une pizza.
-Une fille mange un croissant.
-Une femme mange une orange.
-Un chat mange un croissant.
-Un garçon mange un croissant.
-Paul mange un croissant.
-Un garçon mange une orange.
-Une femme mange.
-Un homme mange.
-Marie mange.
-Tu manges une orange.
-Tu manges.
-Tu manges un croissant.
-Tu manges une pizza.
-Une femme mange une orange.
-Un garçon mange une orange.
-une orange et un croissant
-un croissant et une orange
-une orange
-Tu manges une pizza.
-un chat et une pizza
-une pizza
-Je suis une femme.
-Je suis une fille.
-Je suis un garçon.
-Je suis un homme.
-Je suis Marie.
-Je suis un chat.
-Je suis Paul.
+
+Je suis Paul, et toi?
+Très bien, et toi?
+Et toi?
+Très bien, et toi?
+Au revoir, à demain.
+Salut, à demain!
+À demain!
+À demain, Marie
+À demain, Paul
+Bonne nuit!
+Bonne nuit, Marie
+Bonne nuit, Paul
+Salut, bonne nuit!
+Merci beaucoup, à bientôt
+Au revoir, merci beaucoup
+Ça va, merci
+Ça va bien, merci
+Au revoir, bonne soirée
+Bonne soirée, Marie
+Bonne soirée, Paul
+Salut, bonne soirée
+Bonne soirée
+Au revoir!
+Au revoir, bonne journée!
+Au revoir, à bientôt!
+Au revoir, Marie
+Au revoir, Paul.
+Au revoir
+Salut, comment ça va?
+Salut, ça va?
+Salut Marie, comment ça va?
+Salut Paul, comment ça va?
+Salut, bonne soirée
+Salut, bonne journée!
+Salut, à bientôt!
+Salut, bonne nuit!
+Bonne journée!
+Au revoir, bonne journée
+Bonjour, comment ça va?
+À bientôt!
+Au revoir, à bientôt!
+À bientôt, Marie
+À bientôt, Paul
+Ça va très bien, et toi?
+Ça va bien, et toi?
+Ça va, et toi?
+Ça va bien?
+Ça va bien
+Ça va très bien
+Ça va très bien, et toi?
+Bonjour, comment ça va?
+Ça va bien?
+Comment ça va?
+Ça va bien
+Bonjour, ça va?
+Comment ça va, Marie?
+Comment ça va, Paul?
+Salut Anna, ça va?
+Salut Paul, ça va?

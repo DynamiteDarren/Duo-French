@@ -11,7 +11,7 @@ newsentencefile = open("NewSentences.txt", encoding='utf-8')
 new = newsentencefile.readlines()
 print(new)
 validword = False
-walid = True 
+valid = True 
 addsen = []
 nope = []
 

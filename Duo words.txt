@@ -42,16 +42,23 @@ CONJUCTION
 et
 
 GREETINGS
-à demain
-bonne nuit
-bonne soirée
-au revoir
+à 
+demain
+bonne 
+nuit
+bonne 
+soirée
+au 
+revoir
 salut
-bonne journée
+bonne 
+journée
 bonjour
 bienvenue
-à bientôt
-ça va
+à 
+bientôt
+ça 
+va
 
 OTHER
 c'est
